@@ -1,1 +1,0 @@
-{"version":"2.1.0","message":"Correction de bugs et améliorations","url":"https://github.com/Snyxis/EzRng/releases/tag/Release"}
