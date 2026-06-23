@@ -1,1 +1,6 @@
-{"version":"2.1.0","message":"Correction de bugs et améliorations","url":"https://github.com/Snyxis/EzRng/releases/tag/Release"}
+{
+  "version": "2.3.0",
+  "message": "Adding and testing new features like luck calculator and biomes timers",
+  "url": "https://github.com/Snyxis/EzRng/releases/tag/Release",
+  "downloadUrl": "https://github.com/Snyxis/EzRng/releases/download/Release/EzRng.Setup.2.2.0.exe"
+}
